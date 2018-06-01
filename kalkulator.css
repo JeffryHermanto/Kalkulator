@@ -1,0 +1,13 @@
+a span {
+  font-family: 'Anton', sans-serif;
+  font-family: 'Bowlby One SC', cursive;
+}
+.button {
+  display: block
+}
+center strong {
+  font-size: 3em
+}
+section {
+  margin-bottom: -50px
+}

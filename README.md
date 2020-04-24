@@ -4,7 +4,7 @@
 
 **[Visit Project](https://jeffryhermanto.github.io/Kalkulator/)**
 
-![Kalkulator](http://jhproject.id/images/portfolio/Kalkulator.png)
+![screenshot](screenshot.png)
 
 #### Jeffry Hermanto _jeffryhermanto@gmail.com_
 
